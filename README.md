@@ -6,3 +6,7 @@ test repositorie zum lernen von git
 2. Repo klonen - Erledigt!
 3. Dateien auf lokalen Repo ändern - Erledigt!
 4. Änderung auf den Server pushen
+
+## Die weiteren Schritte 
+
+Die wirkliche Vorlage klonen und eigenes Repo erstellen
